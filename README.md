@@ -2,12 +2,13 @@
 
 A demo deployment of Vuepress app to Layer0.
 
-## Demo
+## Currently deployed to:
 
-https://layer0-docs-layer0-vuepress-example-default.layer0-limelight.link
+https://justin-58-layer0-vuepress-example-default.layer0-limelight.link/
 
 ## Try It Now
 
+Click to deploy this somewhere else on layer0:   
 [![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-vuepress-example)
 
 ## Getting Started
